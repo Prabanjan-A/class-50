@@ -1,0 +1,33 @@
+h1{ 
+
+    color:green
+
+}
+
+/**{
+    border: solid;
+}*/
+
+p{
+    font-style: italic;
+
+}
+
+.heading {
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    border: solid;
+}
+
+.doremon{
+    display: flex;
+    justify-content: space-evenly;
+    border: solid;
+}
+
+.audi{
+    display: flex;
+    align-items: baseline;
+  
+}
